@@ -6,7 +6,7 @@
 //   import (
 //     "time"
 //
-//     . "gopkg.in/getlantern/waitforserver.v1"
+//     . "github.com/getlantern/waitforserver"
 //   )
 //
 //   func doStuff() {
